@@ -16,7 +16,7 @@ From the Terminal:
 
  `cd Documents `
  
- `sudo wget https://github.com/jgamblin/OsoYooTFT/blob/master/LCD_show_v5.tar.gz `
+ `sudo wget https://github.com/jgamblin/OsoYooTFT/raw/master/LCD_show_v5.tar.gz `
  
  `tar xzvf LCD_show_v5.tar.gz `
  
